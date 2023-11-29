@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/compteurLike/static/css/main.fec5e930.css",
+    "main.js": "/compteurLike/static/js/main.95c0b6c8.js",
+    "index.html": "/compteurLike/index.html",
+    "main.fec5e930.css.map": "/compteurLike/static/css/main.fec5e930.css.map",
+    "main.95c0b6c8.js.map": "/compteurLike/static/js/main.95c0b6c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fec5e930.css",
+    "static/js/main.95c0b6c8.js"
+  ]
+}
